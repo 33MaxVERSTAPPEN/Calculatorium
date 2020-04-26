@@ -551,7 +551,7 @@ int main(){
                     cin >> a;
                     if (a != "1" && a != "0"){
                         cout << "Please enter either 1 for yes or 0 for no: ";
-                    } else if (a == "N"){
+                    } else if (a == "0"){
                         cout << "Oh come on! Just one more? That was fun!\n";
                         sleep (2);
                         cout << "Oh well, nevermind. Here you go, the main menu:\n";
@@ -561,7 +561,7 @@ int main(){
                         break;
                     }
                 }
-                if (a == "N"){
+                if (a == "0"){
                     break;
                 }
             }
@@ -585,7 +585,7 @@ int main(){
                 sleep(1);
                 cout << "[10 minutes later]\n\n";
                 sleep(1);
-                cout << "555, 556, 557, 558, 558! Aa Ha! 558 lines of code! \n";
+                cout << "600, 601, 602, 603, 604! Aa Ha! 604 lines of code! \n";
                 sleep(1);
                 cout << "(c) - By Raymond F and Ethan Y";
                 sleep(3);
