@@ -308,7 +308,7 @@ int main(){
                 cout << "AHEM! THANKS FOR PLAYING!!!! Now shoo.\n\n";
                 sleep(1);
                 cout << "Made my two sixth-graders. Hope you enjoyed!\n";
-                cout << "(c) Raymond F and Ethan Y";
+                cout << "Please do not copy this code. \n By, Raymond F and Ethan Y";
                 sleep(3);
                 return 0;
                 break;
